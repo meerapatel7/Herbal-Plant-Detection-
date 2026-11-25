@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+
+# Large datasets and generated test artifacts
+Medicinal-plant/dataset/
+Medicinal-plant/herbal_data/
+Medicinal-plant/test_photo.html
+Medicinal-plant/test_photo_files/
+Medicinal-plant.zip
+files.zip

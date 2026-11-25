@@ -1,0 +1,373 @@
+{
+  "Aloevera": {
+    "scientific_name": "Aloe barbadensis miller",
+    "uses": [
+      "Traditionally used for minor burns and skin irritation",
+      "Gel used for skin moisturizing"
+    ],
+    "how_to_use": "Fresh gel from the leaf is applied on the skin.",
+    "precautions": "Do a patch test first. Consult a doctor before taking it by mouth."
+  },
+  "Amla": {
+    "scientific_name": "Phyllanthus emblica",
+    "uses": [
+      "Rich natural source of vitamin C",
+      "Traditionally used to support digestion and immunity",
+      "Traditionally used in hair and skin care"
+    ],
+    "how_to_use": "Fresh fruit, juice, or dried powder; also an ingredient in Ayurvedic preparations such as Chyawanprash.",
+    "precautions": "May lower blood sugar, so people on diabetes medicines should consult a doctor. Excess may cause acidity."
+  },
+  "Amruta_Balli": {
+    "scientific_name": "Tinospora cordifolia (Giloy)",
+    "uses": [
+      "Traditionally used for fever and general weakness",
+      "Traditionally used to support immunity",
+      "Used in Ayurvedic digestive and tonic formulations"
+    ],
+    "how_to_use": "Stem decoction or powder, taken as advised by an Ayurvedic practitioner.",
+    "precautions": "May lower blood sugar and affect immune-related conditions or medicines. Rare liver problems have been reported with some products. Avoid in pregnancy. Consult a doctor."
+  },
+  "Arali": {
+    "scientific_name": "Ficus religiosa (peepal, sacred fig)",
+    "uses": [
+      "Bark and leaves are traditionally used in Ayurveda and folk medicine for skin problems and minor wounds",
+      "Traditionally used for digestive complaints",
+      "Fruits are traditionally used as a mild laxative",
+      "Used in folk medicine for cough and breathing complaints",
+      "A sacred tree in Hinduism and Buddhism, and widely planted for shade"
+    ],
+    "how_to_use": "Traditionally used as a bark or leaf decoction, or as a paste on the skin, only as advised by a practitioner. Fruits are sometimes eaten in small amounts in folk use.",
+    "precautions": "Modern safety information is limited, so do not self-medicate. It may lower blood sugar, so consult a doctor if you take diabetes medicines. Avoid medicinal amounts in pregnancy. The milky sap can irritate sensitive skin. Consult a doctor or qualified practitioner before medicinal use."
+  },
+  "Ashoka": {
+    "scientific_name": "Saraca asoca",
+    "uses": [
+      "Bark is traditionally used in Ayurveda for women's reproductive health concerns such as heavy or painful periods, Used in traditional tonic preparations for the uterus"
+    ],
+    "how_to_use": "Traditionally taken as a bark decoction, as the Ayurvedic preparation Ashokarishta, or as bark powder with milk or water, only as advised by a practitioner.",
+    "precautions": "Avoid during pregnancy, as it may affect the uterus. Do not self-medicate for menstrual problems, because heavy or irregular bleeding needs a doctor to find the cause. Consult a practitioner before long-term use."
+  },
+  "Ashwagandha": {
+    "scientific_name": "Withania somnifera",
+    "uses": [
+      "Traditionally used to help the body cope with stress",
+      "Traditionally used for tiredness and general strength",
+      "Traditionally used to support sleep"
+    ],
+    "how_to_use": "Root powder, usually mixed with milk or water, as advised by a practitioner.",
+    "precautions": "Avoid in pregnancy. Consult a doctor if you have thyroid problems, an autoimmune condition, or take sedatives or diabetes medicines. Rare liver problems have been reported."
+  },
+  "Avacado": {
+    "scientific_name": "Persea americana",
+    "uses": [
+      "Fruit is nutritious, with healthy fats, fibre, and potassium",
+      "Fruit and oil are used in skin and hair care"
+    ],
+    "how_to_use": "Eat the ripe fruit; oil or pulp is used on skin and hair.",
+    "precautions": "People with latex allergy may react to the fruit. Leaves, skin, and seed are toxic to many pets and birds. Do not use leaves or seed for self-medication."
+  },
+  "Bamboo": {
+    "scientific_name": "Bambusa vulgaris / Bambusa arundinacea",
+    "uses": [
+      "Cooked young shoots are eaten as food and are a source of fibre, Bamboo manna (vanshlochan), the silica-rich deposit from the stem, is traditionally used in Ayurveda for cough and respiratory complaints, Leaves are used in folk medicine"
+    ],
+    "how_to_use": "Young shoots must be thoroughly boiled before eating. Vanshlochan is traditionally taken with honey in small amounts as advised by a practitioner.",
+    "precautions": "Raw bamboo shoots contain cyanogenic compounds that are toxic, so never eat them raw. Avoid medicinal amounts in pregnancy. Do not self-medicate."
+  },
+  "Basale": {
+    "scientific_name": "Basella alba (Malabar spinach)",
+    "uses": [
+      "Leafy vegetable rich in iron and vitamins",
+      "Traditionally used as a mild laxative and cooling food",
+      "Leaf paste traditionally applied on minor skin problems"
+    ],
+    "how_to_use": "Leaves are cooked as a vegetable or in soups.",
+    "precautions": "Contains oxalates, so people prone to kidney stones should eat it in moderation. Cook before eating."
+  },
+  "Betel": {
+    "scientific_name": "Piper betle",
+    "uses": [
+      "Leaves traditionally used as a mouth freshener and to support digestion",
+      "Traditionally used for cough and minor wounds in folk medicine",
+      "Used in religious and cultural practices"
+    ],
+    "how_to_use": "Fresh leaf is chewed in small amounts or used in traditional preparations. Leaf paste is applied to minor skin problems.",
+    "precautions": "Do not chew with tobacco or areca nut, which raises the risk of oral cancer. Excess use may irritate the mouth. Consult a doctor."
+  },
+  "Betel_Nut": {
+    "scientific_name": "Areca catechu",
+    "uses": [
+      "Seed is used in traditional and cultural practices",
+      "Traditionally used in some Ayurvedic preparations"
+    ],
+    "how_to_use": "Not recommended for home use. Use only in preparations advised by a qualified practitioner.",
+    "precautions": "Regular chewing is linked to oral cancer and mouth diseases, and the International Agency for Research on Cancer classifies it as carcinogenic to humans. Habit-forming. Avoid in pregnancy. Not for self-medication."
+  },
+  "Brahmi": {
+    "scientific_name": "Bacopa monnieri",
+    "uses": [
+      "Traditionally used to support memory and learning",
+      "Traditionally used to help with stress and anxiety",
+      "Used in Ayurvedic nerve tonics"
+    ],
+    "how_to_use": "Leaf juice, powder, or extract, taken as advised by an Ayurvedic practitioner.",
+    "precautions": "May cause stomach upset or nausea. Consult a doctor if you take thyroid, sedative, or other regular medicines, and avoid in pregnancy."
+  },
+  "Castor": {
+    "scientific_name": "Ricinus communis",
+    "uses": [
+      "Seed oil (castor oil) is traditionally used as a laxative and in hair and skin care",
+      "Oil is applied externally in massage for joint and muscle comfort"
+    ],
+    "how_to_use": "Only the refined oil is used, and only in amounts advised by a doctor. Never eat the seeds or leaves.",
+    "precautions": "The seeds are highly toxic because they contain ricin. Oil should not be used in pregnancy, as it may induce labour. Do not self-medicate."
+  },
+  "Curry_Leaf": {
+    "scientific_name": "Murraya koenigii",
+    "uses": [
+      "Common cooking herb that adds flavour and nutrients such as iron",
+      "Traditionally used to support digestion",
+      "Traditionally used in hair and skin care"
+    ],
+    "how_to_use": "Fresh leaves are added to food. Leaf paste or oil is used in hair care.",
+    "precautions": "Safe as food in normal amounts. Medicinal use in larger amounts should be discussed with a doctor, especially if you take diabetes medicines."
+  },
+  "Doddapatre": {
+    "scientific_name": "Coleus amboinicus (Plectranthus amboinicus), also called Indian borage",
+    "uses": [
+      "Leaves are traditionally used in home remedies for colds, cough and sore throat, Traditionally used for indigestion and gas, Leaves are used as a flavouring and in traditional snacks"
+    ],
+    "how_to_use": "Fresh leaf juice is slightly warmed and mixed with honey in traditional cough remedies. Fresh leaves can also be eaten in small amounts or dipped in batter to make bajji.",
+    "precautions": "Generally considered safe in food amounts. Large amounts may irritate the stomach or cause a burning feeling in people with acidity. Do not give medicinal doses to infants or young children without asking a doctor, and never give honey to babies under one year. Avoid medicinal amounts in pregnancy."
+  },
+  "Ekka": {
+    "scientific_name": "Calotropis gigantea / Calotropis procera",
+    "uses": [
+      "Traditionally used externally in folk medicine for joint pain and skin problems, Root bark is used in some traditional preparations only under practitioner guidance, Has cultural and religious importance"
+    ],
+    "how_to_use": "Traditionally, mature leaves are smeared with oil, warmed and tied over a painful joint. Keep the milky latex away from eyes and broken skin. Do not take any part by mouth.",
+    "precautions": "The milky latex is toxic and caustic. It can cause severe skin irritation and serious eye injury, including possible loss of vision. Taking it by mouth can be dangerous. Wash hands thoroughly after handling. Not for self-medication."
+  },
+  "Ganike": {
+    "scientific_name": "Solanum nigrum (black nightshade)",
+    "uses": [
+      "Cooked leaves and ripe berries are eaten as food in parts of South India, cooked with ingredients such as tamarind, onion and cumin, Traditionally used in Indian folk medicine for stomach complaints, dysentery and fever, Leaf preparations traditionally used for mouth ulcers, Juice traditionally applied to skin ulcers and skin problems, Traditionally used in some regions for liver complaints"
+    ],
+    "how_to_use": "Only thoroughly cooked leaves and fully ripe berries of a known edible type are eaten as food. Medicinal use is traditional only and should be under a practitioner's guidance.",
+    "precautions": "Raw leaves and unripe or green berries can be toxic because of solanine-type compounds, and toxicity varies between types and regions. It can be confused with the more poisonous deadly nightshade (Atropa belladonna), so never eat it unless the plant is correctly identified. Not for self-medication. Avoid in pregnancy. Laboratory anticancer findings are from cells and animals only and do not mean it treats cancer."
+  },
+  "Gauva": {
+    "scientific_name": "Psidium guajava",
+    "uses": [
+      "Fruit is rich in vitamin C and fibre",
+      "Leaves traditionally used for diarrhoea and as a mouth rinse for gum and tooth problems",
+      "Leaf paste traditionally applied on minor wounds"
+    ],
+    "how_to_use": "Eat the ripe fruit. Leaf decoction is used as a gargle or taken in small amounts as advised by a practitioner.",
+    "precautions": "Leaf extracts may lower blood sugar, so people on diabetes medicines should consult a doctor. Avoid medicinal doses in pregnancy."
+  },
+  "Geranium": {
+    "scientific_name": "Pelargonium graveolens (rose geranium)",
+    "uses": [
+      "Essential oil is used in aromatherapy to promote relaxation, Used in skin care products, for example to balance oily skin, Traditionally used in folk medicine for minor skin problems"
+    ],
+    "how_to_use": "Dilute the essential oil in a carrier oil such as coconut or jojoba oil before applying to skin, or use it in a room diffuser.",
+    "precautions": "Never swallow the essential oil. Do a patch test first, because it can cause skin irritation or allergic reactions. Avoid in pregnancy. Keep away from children and pets."
+  },
+  "Henna": {
+    "scientific_name": "Lawsonia inermis",
+    "uses": [
+      "Leaf paste is used as a natural dye for hair and skin",
+      "Traditionally used for scalp and hair care",
+      "Traditionally used as a cooling application on skin"
+    ],
+    "how_to_use": "Dried leaf powder is mixed with water into a paste and applied to hair or skin.",
+    "precautions": "Do a patch test first. Avoid 'black henna' products, which can contain harmful chemicals. Henna is not advised for infants or people with G6PD deficiency. Not for eating."
+  },
+  "Hibiscus": {
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "uses": [
+      "Flowers and leaves traditionally used in hair care",
+      "Flowers traditionally used in cooling drinks and folk medicine",
+      "Widely used as an ornamental and in worship"
+    ],
+    "how_to_use": "Flower or leaf paste is applied to hair. Flower infusion is taken in small amounts in traditional use.",
+    "precautions": "May lower blood pressure and blood sugar. Avoid medicinal amounts in pregnancy. Consult a doctor before regular internal use."
+  },
+  "Honge": {
+    "scientific_name": "Pongamia pinnata",
+    "uses": [
+      "Seed oil (karanja oil) traditionally applied for skin conditions",
+      "Leaves and bark used in folk medicine for skin and wound care"
+    ],
+    "how_to_use": "Oil is used externally only, under the guidance of a practitioner.",
+    "precautions": "Seeds and oil are bitter and toxic if swallowed. Do a patch test before skin use. Not for self-medication."
+  },
+  "Insulin": {
+    "scientific_name": "Costus igneus",
+    "uses": [
+      "Leaves traditionally used in folk medicine to support blood sugar management",
+      "Leaves are sometimes chewed or added to food in small amounts"
+    ],
+    "how_to_use": "Fresh leaves are chewed or taken as juice in traditional use.",
+    "precautions": "Scientific evidence is limited. It is NOT a substitute for diabetes medicines or insulin. Do not change or stop treatment without a doctor, because blood sugar may fall too low or too high."
+  },
+  "Jasmine": {
+    "scientific_name": "Jasminum officinale / Jasminum sambac",
+    "uses": [
+      "Flowers are used in tea, aromatherapy and perfumery for relaxation, Traditionally used to ease menstrual discomfort, Used in skin and hair care"
+    ],
+    "how_to_use": "Steep dried petals in hot water for a calming tea. Diluted essential oil can be used in a diffuser or for massage.",
+    "precautions": "Jasmine tea in normal amounts is generally considered safe. Avoid large or medicinal amounts in pregnancy. Essential oil should not be swallowed. Do a patch test, as it can cause skin allergy."
+  },
+  "Lemon": {
+    "scientific_name": "Citrus limon",
+    "uses": [
+      "Rich source of vitamin C",
+      "Traditionally used with warm water and honey for cough and sore throat",
+      "Used to support digestion and as a flavouring"
+    ],
+    "how_to_use": "Juice is diluted in water or added to food and tea.",
+    "precautions": "Acidic juice can damage tooth enamel and worsen acid reflux in some people. Lemon juice on skin followed by sun exposure can cause burns or dark patches."
+  },
+  "Lemon_grass": {
+    "scientific_name": "Cymbopogon citratus",
+    "uses": [
+      "Used as a herbal tea and flavouring",
+      "Traditionally used to support digestion and relieve stomach discomfort",
+      "Traditionally used for cold, fever, and mild aches",
+      "Oil is used in aromatherapy and as a mosquito repellent"
+    ],
+    "how_to_use": "Fresh or dried leaves are steeped in hot water as tea or added to food. Diluted oil is used externally.",
+    "precautions": "Essential oil should not be swallowed and can irritate skin, so dilute it. Avoid medicinal amounts in pregnancy. Consult a doctor if you take regular medicines."
+  },
+  "Mango": {
+    "scientific_name": "Mangifera indica",
+    "uses": [
+      "Fruit is rich in vitamins A and C and fibre",
+      "Leaves traditionally used in folk medicine for blood sugar support and throat irritation",
+      "Bark and seed are used in traditional preparations"
+    ],
+    "how_to_use": "Eat the ripe fruit. Leaf decoction is used in folk practice in small amounts.",
+    "precautions": "Mango sap and peel contain urushiol-like compounds that can cause skin rashes in sensitive people. Leaf use may lower blood sugar, so consult a doctor if you take diabetes medicines. Ripe fruit is high in natural sugar."
+  },
+  "Mint": {
+    "scientific_name": "Mentha piperita (peppermint) / Mentha spicata (spearmint)",
+    "uses": [
+      "Traditionally used to ease indigestion, gas and bloating, Peppermint is used for irritable bowel symptoms and to relieve nasal congestion, Used for fresh breath and as a flavouring"
+    ],
+    "how_to_use": "Steep fresh leaves in hot water for tea, or add fresh leaves to salads, chutneys and food.",
+    "precautions": "May worsen acid reflux or heartburn. Do not apply peppermint oil on or near the face of infants and young children, because it can cause breathing problems. Dilute essential oil before skin use. Consult a doctor before medicinal use in pregnancy."
+  },
+  "Nagadali": {
+    "scientific_name": "Ruta graveolens (common rue)",
+    "uses": [
+      "Has a long history in traditional European and folk medicine, but internal use has largely been dropped because of toxicity, Applied on the skin in some traditions though this is risky, Used sparingly as a bitter culinary herb in the past, Grown as an ornamental and insect-repelling plant"
+    ],
+    "how_to_use": "Not recommended for home use. Internal use is discouraged because the plant is toxic. Any use should be only under the guidance of a qualified practitioner.",
+    "precautions": "Toxic plant. Must be avoided in pregnancy, because it has been used historically to induce abortion. Avoid if you have liver or kidney problems, or stomach and bowel conditions such as ulcers, colitis or inflammatory bowel disease. Handling it can cause skin rashes and increased sun sensitivity (burns or blisters after sun exposure). Possible side effects include dizziness, stomach irritation and mood changes. Do not self-medicate."
+  },
+  "Neem": {
+    "scientific_name": "Azadirachta indica",
+    "uses": [
+      "Traditionally used for skin problems",
+      "Used in oral and dental care"
+    ],
+    "how_to_use": "Leaves are used in pastes or washes; twigs are traditionally used for cleaning teeth.",
+    "precautions": "Not recommended during pregnancy or for young children. Consult a doctor."
+  },
+  "Nithyapushpa": {
+    "scientific_name": "Catharanthus roseus",
+    "uses": [
+      "Source of alkaloids used by the pharmaceutical industry for certain cancer medicines",
+      "Traditionally used in folk medicine for diabetes, but safe use is not established",
+      "Widely grown as an ornamental plant"
+    ],
+    "how_to_use": "Not for home use. Do not eat or drink preparations of this plant.",
+    "precautions": "Toxic if taken by mouth. It can harm the blood, nerves, and liver. Not for self-medication and keep away from children and pets."
+  },
+  "Nooni": {
+    "scientific_name": "Morinda citrifolia (Noni)",
+    "uses": [
+      "Fruit juice is traditionally used as a health tonic",
+      "Traditionally used in folk medicine for joint pain, digestion, and general wellbeing"
+    ],
+    "how_to_use": "Ripe fruit juice is taken in small amounts in traditional use, or leaves are used externally.",
+    "precautions": "Has been linked to liver problems in some people. Contains high potassium, so people with kidney disease should avoid it. Avoid in pregnancy. Consult a doctor first."
+  },
+  "Pappaya": {
+    "scientific_name": "Carica papaya",
+    "uses": [
+      "Ripe fruit is rich in vitamin C and fibre and supports digestion",
+      "Leaves traditionally used in folk medicine, for example for low platelet counts, though evidence is limited",
+      "Raw fruit and latex are used in traditional remedies and meat tenderising"
+    ],
+    "how_to_use": "Eat the ripe fruit. Leaf juice is used in folk practice only on medical advice.",
+    "precautions": "Unripe papaya and latex should be avoided in pregnancy, because they may cause contractions. Latex can cause allergy and skin irritation. Fever with low platelets needs a doctor, not home treatment."
+  },
+  "Pepper": {
+    "scientific_name": "Piper nigrum",
+    "uses": [
+      "Common spice used for flavour, Helps the body absorb some nutrients such as curcumin from turmeric, Traditionally used for digestion, congestion, cough and sore throat"
+    ],
+    "how_to_use": "Add freshly crushed pepper to food. For a sore throat, a pinch of pepper powder is traditionally mixed with honey.",
+    "precautions": "Large amounts can irritate the stomach and cause acid reflux or a burning feeling. Pepper can increase the absorption of some medicines, so consult a doctor if you take regular medicines. Avoid medicinal amounts in pregnancy."
+  },
+  "Pomegranate": {
+    "scientific_name": "Punica granatum",
+    "uses": [
+      "Fruit and juice are rich in antioxidants and vitamin C",
+      "Rind and bark traditionally used for diarrhoea and mouth or throat problems",
+      "Flowers and rind used in folk medicine"
+    ],
+    "how_to_use": "Eat the fruit or drink the juice. Dried rind powder is used in traditional preparations on practitioner advice.",
+    "precautions": "Can interact with some medicines, including blood pressure and blood-thinning medicines. Root and stem bark can be toxic, so use only the fruit unless a practitioner advises otherwise. Consult a doctor before medicinal use."
+  },
+  "Raktachandini": {
+    "scientific_name": "Pterocarpus santalinus (red sandalwood)",
+    "uses": [
+      "Heartwood paste is traditionally used for skin care, such as for acne, blemishes and sunburn, Used in Ayurveda for inflammation and for bleeding or digestive complaints under practitioner guidance, Used as a natural red dye"
+    ],
+    "how_to_use": "Mix heartwood powder with water, milk or rose water into a smooth paste and apply to the skin.",
+    "precautions": "Do a patch test before skin use, since it can cause dryness or contact dermatitis. Do not take it by mouth for self-treatment. Avoid internal use if you have missed or very scanty periods. This is an endangered, legally protected tree, so do not collect or trade it without permission."
+  },
+  "Rose": {
+    "scientific_name": "Rosa gallica / Rosa damascena",
+    "uses": [
+      "Rose water is used as a skin toner and cooling application, Petals are used in tea and in gulkand, a traditional preserve, to support digestion and ease mild constipation, Used for fragrance and relaxation"
+    ],
+    "how_to_use": "Apply rose water on the skin as a mist. Rose petal tea or gulkand can be taken in small amounts.",
+    "precautions": "Use only organic, unsprayed petals and products free from synthetic fragrance. Do a patch test, since some people are allergic. Essential oil should not be swallowed. Gulkand is high in sugar, so people with diabetes should take care."
+  },
+  "Sapota": {
+    "scientific_name": "Manilkara zapota",
+    "uses": [
+      "Fruit is a good source of energy, fibre, and vitamin C",
+      "Bark and unripe fruit traditionally used in folk medicine for diarrhoea",
+      "Latex is used in traditional preparations"
+    ],
+    "how_to_use": "Eat the ripe fruit. Other parts are used only in folk practice.",
+    "precautions": "Unripe fruit is astringent and can cause mouth irritation. Seeds should not be eaten. The fruit is high in natural sugar, so people with diabetes should eat it in moderation."
+  },
+  "Tulasi": {
+    "scientific_name": "Ocimum tenuiflorum",
+    "uses": [
+      "Traditionally used for cough and cold",
+      "Traditionally used to help with fever",
+      "Supports general immunity"
+    ],
+    "how_to_use": "A few leaves boiled in water or made into tea; honey can be added.",
+    "precautions": "Avoid excess use during pregnancy. Consult a doctor."
+  },
+  "Wood_sorel": {
+    "scientific_name": "Oxalis corniculata",
+    "uses": [
+      "Leaves traditionally used in folk medicine for digestive complaints and fever",
+      "Leaf juice traditionally applied on minor skin problems",
+      "Leaves are sometimes eaten in small amounts for their sour taste"
+    ],
+    "how_to_use": "Leaves are used in small amounts in chutneys or in folk preparations.",
+    "precautions": "Contains oxalates. People with kidney stones, gout, or kidney disease should avoid it, and large amounts can be harmful. Not for self-medication."
+  }
+}

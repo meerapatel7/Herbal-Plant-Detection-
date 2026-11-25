@@ -1,0 +1,48 @@
+Test accuracy: 0.8776
+
+               precision    recall  f1-score   support
+
+     Aloevera       0.81      0.96      0.88        23
+         Amla       0.95      0.83      0.88        23
+ Amruta_Balli       0.83      0.65      0.73        23
+        Arali       0.96      1.00      0.98        23
+       Ashoka       0.96      0.96      0.96        23
+  Ashwagandha       0.79      0.96      0.86        23
+      Avacado       1.00      1.00      1.00        23
+       Bamboo       0.96      0.96      0.96        23
+       Basale       0.89      0.74      0.81        23
+        Betel       0.89      0.70      0.78        23
+    Betel_Nut       0.96      0.96      0.96        23
+       Brahmi       0.95      0.83      0.88        23
+       Castor       0.92      0.96      0.94        23
+   Curry_Leaf       0.96      0.96      0.96        23
+   Doddapatre       0.79      1.00      0.88        23
+         Ekka       0.95      0.91      0.93        23
+       Ganike       0.77      0.94      0.85        18
+        Gauva       0.95      0.91      0.93        23
+     Geranium       0.95      0.91      0.93        23
+        Henna       0.89      0.35      0.50        23
+     Hibiscus       0.68      0.91      0.78        23
+        Honge       1.00      0.91      0.95        23
+      Insulin       0.71      0.96      0.81        23
+      Jasmine       0.81      0.74      0.77        23
+        Lemon       0.81      0.96      0.88        23
+  Lemon_grass       1.00      0.96      0.98        23
+        Mango       0.67      0.70      0.68        23
+         Mint       1.00      0.87      0.93        23
+     Nagadali       1.00      0.83      0.90        23
+         Neem       0.95      0.91      0.93        23
+ Nithyapushpa       0.73      0.83      0.78        23
+        Nooni       0.76      0.96      0.85        23
+      Pappaya       0.91      0.91      0.91        23
+       Pepper       0.91      0.91      0.91        23
+  Pomegranate       0.96      1.00      0.98        23
+Raktachandini       0.82      1.00      0.90        23
+         Rose       0.82      0.78      0.80        23
+       Sapota       1.00      0.91      0.95        23
+       Tulasi       0.94      0.70      0.80        23
+   Wood_sorel       0.84      0.91      0.88        23
+
+     accuracy                           0.88       915
+    macro avg       0.89      0.88      0.87       915
+ weighted avg       0.89      0.88      0.87       915
