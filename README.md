@@ -169,6 +169,3 @@ This project is for **educational purposes only**. It is not medical advice and 
 
 **Meera Patel**, MSc Data Science
 
-## License
-
-Choose a licence (for example MIT) and add a `LICENSE` file, or remove this section.
